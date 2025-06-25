@@ -32,16 +32,17 @@
 
 # 📊 Estatísticas
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; flex-direction:row; flex-wrap: wrap; gap: 20px;">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=ErickBAlmeida&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-    width="45%" 
+    width="50%" 
+    height="200"
     alt="Estatísticas do GitHub"
-  />
-  
+  />  
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickBAlmeida&layout=compact&langs_count=9&theme=tokyonight&custom_title=Tecnologias" 
-    width="45%" 
+    width="40%" 
+    height="200"
     alt="Linguagens mais usadas"
   />
 </div>
