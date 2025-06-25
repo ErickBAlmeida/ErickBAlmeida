@@ -32,7 +32,7 @@
 
 # 📊 Estatísticas
 
-<p>
+<p style="display: flex; justify-content: space-between; gap: 10px;">
   <img 
       align="left" 
       alt="GitHub Stats" 
