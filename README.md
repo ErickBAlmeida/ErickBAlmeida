@@ -32,22 +32,19 @@
 
 # 📊 Estatísticas
 
-<table>
-  <tr>
-    <td width="50%">
-      <img 
-        alt="GitHub Stats" 
-        src="https://github-readme-stats.vercel.app/api?username=ErickBAlmeida&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-        width="100%"
-      />
-    </td>
-    <td width="50%">
-      <img 
-        alt="Top Langs" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickBAlmeida&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-        width="100%"
-      />
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ErickBAlmeida&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    width="45%" 
+    alt="Estatísticas do GitHub"
+  />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickBAlmeida&layout=compact&langs_count=9&theme=tokyonight&custom_title=Tecnologias" 
+    width="45%" 
+    alt="Linguagens mais usadas"
+  />
+</div>
+
+
 
