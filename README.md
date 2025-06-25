@@ -13,6 +13,7 @@
 🌱 Atualmente estudando sobre **Engenharia de Dados**<br/>
 
 # 💻 Tech Stack:
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -33,16 +34,17 @@
 
 <p>
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ErickBAlmeida&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
- <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
+      style="padding-right: 10px;" 
+      src="https://github-readme-stats.vercel.app/api?username=ErickBAlmeida&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+   />
+ <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200"
+      width="66%"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickBAlmeida&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+   />
 </p> 
