@@ -5,7 +5,7 @@
 # 👋 Olá, me chamo **Erick**!
 
 🎓 Estudante de Engenharia de Computação<br/>
-💻 Tenho 21 anos, sou paixonado por tecnologia, programação e inovação<br/>
+💻 Tenho 21 anos, sou apaixonado por tecnologia, programação e inovação<br/>
 📍 Moro no **Rio de Janeiro, RJ - Brasil**<br/>
 🚀 Foco em desenvolvimento de automações com Python<br/>
 📚 Sempre aprendendo e compartilhando conhecimento<br/>
