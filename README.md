@@ -35,7 +35,7 @@
 <div style="display: flex; flex-direction:row; flex-wrap: wrap; gap: 20px;">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=ErickBAlmeida&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-    width="50%" 
+    width="45%" 
     height="200"
     alt="Estatísticas do GitHub"
   />  
