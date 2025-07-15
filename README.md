@@ -32,7 +32,7 @@
 
 # 📊 Estatísticas
 
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 2rem; flex-wrap: wrap;">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=ErickBAlmeida&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
     style="width: 45%; height: 200px;"
